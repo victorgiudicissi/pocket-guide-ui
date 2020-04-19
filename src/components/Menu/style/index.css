@@ -1,0 +1,11 @@
+.menu .header{
+    bottom:0;
+    position: absolute;
+    margin-left: 10%;
+    margin-bottom: 15px !important;
+ }
+ 
+ .pusher {
+    width: 91.5%;
+    height: 100%;
+ }
